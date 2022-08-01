@@ -1,0 +1,61 @@
+.part1
+{
+    /* background-color: blue; */
+     font-size: 50px;
+     /* margin-top: 3rem; */
+     background-color: rgb(37, 50, 78); 
+     color: white;
+    height: 50vh;
+    
+    
+    }
+.dummy-button
+{
+ text-align: center;
+
+ }
+
+ .part2
+ {
+    margin:auto;
+    margin-top: 30px    ;
+    background-color: #ecf6ff;
+    height: 50vh;
+    max-width: fit-content;
+    display: flex;
+    font-size: 34x;
+    padding: 20px;
+
+ }
+ .whyus
+ {
+     margin-top: 10px;
+     text-align: center;
+     color: wheat;
+
+     
+ }
+
+ .cardt1
+ {
+     width: 300px;
+     height: fit-content;
+     background-color: white;
+     margin:10px;
+     align-items: center;
+     border-radius: 6px;
+     padding: 10px;
+ }
+
+ .cardheading
+ {
+     color:#0096FF;
+     font-size: 30px;
+
+
+ }
+
+ .cardtext
+ {
+    margin-top: 10px;
+ }

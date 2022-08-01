@@ -1,0 +1,26 @@
+
+.loginscreen
+{
+    padding:30px; 
+    margin-top:30px;   
+    margin: auto;
+    width: 350px;
+    /* height: 40vh; */
+    background-color: white;
+    border-radius: 12px;
+   
+}
+
+.inp
+{
+    font-size: 20px;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+
+.balign
+{
+    margin-left: 10px;
+}
